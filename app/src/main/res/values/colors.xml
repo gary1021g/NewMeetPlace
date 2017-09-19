@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="chat_item">#fdffdb</color>
+    <color name="chat_item2">#feffeb</color>
+    <color name="nav_new">#6cd9fe</color>
+    <color name="nav_new_login">#d3f1fb</color>
+    <color name="NAV">#33b5e5</color>
+
+    <!--  icon -->
+    <color name="icon_favorite">@color/icon_pink_fav</color>
+    <color name="icon_img">@color/icon_orange_image</color>
+    <color name="icon_music">@color/icon_green_music</color>
+    <color name="icon_video">@color/icon_yellow_video</color>
+    <color name="icon_app">@color/icon_blue_app</color>
+    <color name="icon_document">@color/icon_purple_document</color>
+    <color name="icon_web">@color/icon_green_web</color>
+    <color name="icon_others">@color/icon_brown_others</color>
+    <color name="icon_setting">@color/icon_gray_setting</color>
+
+    <!-- icon standard color -->
+    <color name="icon_pink_fav">#EC797E</color>
+    <color name="icon_orange_image">#F6B064</color>
+    <color name="icon_yellow_video">#EFE055</color>
+    <color name="icon_green_music">#93C866</color>
+    <color name="icon_green_web">#64AB98</color>
+    <color name="icon_blue_app">#567AAD</color>
+    <color name="icon_purple_document">#915CA3</color>
+    <color name="icon_gray_setting">#939292</color>
+    <color name="icon_brown_others">#5A4737</color>
+
+    <!-- expandable listview color -->
+    <color name="folder_pink_dark_fav">#A64275</color>
+    <color name="folder_pink_light_fav">#E478AB</color>
+    <color name="folder_orange_dark_image">#926542</color>
+    <color name="folder_orange_light_image">#90715C</color>
+    <color name="folder_yellow_dark_video">#817645</color>
+    <color name="folder_yellow_light_video">#877F5E</color>
+    <color name="folder_green_dark_music">#395442</color>
+    <color name="folder_green_light_music">#4F5D41</color>
+    <color name="folder_blue_green_dark_web">#2F4B48</color>
+    <color name="folder_blue_green_light_web">#54776D</color>
+    <color name="folder_blue_dark_app">#365263</color>
+    <color name="folder_blue_light_app">#4F5B66</color>
+    <color name="folder_purple_dark_document">#513A63</color>
+    <color name="folder_purple_light_document">#5F4E66</color>
+
+    <!-- gallery background -->
+    <color name="list_bg_light">@color/white_rice</color>
+    <color name="list_bg_dark">@color/black_blueish_gray</color>
+
+    <!-- title bar -->
+    <color name="title_bar_color">@color/blue_sky_light</color>
+
+    <!-- Basic Color -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- White -->
+    <color name="white_rice">#EDD9CD</color>
+    <color name="white_light">#FEFEFE</color>
+    <color name="white_light2">#FDF9F4</color>
+
+    <!-- blue -->
+    <color name="blue_standard_bg">#27323E</color>
+    <color name="blue_ocean">#2b65ec</color>
+    <color name="blue_dress">#157DEC</color>
+    <color name="blue_sky">#6698FF</color>
+    <color name="blue_sky2">#82CAFF</color>
+    <color name="blue_sky_light">#82CAFA</color>
+    <color name="blue_sky_deep">#3BB9FF</color>
+    <color name="blue_powder">#C6DEFF</color>
+    <color name="blue_cobalt">#0020C2</color>
+    <color name="blue_steel">#4863A0</color>
+    <color name="blue_light">#a9d6eb</color>
+
+    <!-- gray black -->
+    <color name="black_midnight">#2B1B17</color>
+    <color name="black_oil">#3B3131</color>
+    <color name="black_blueish_gray">#283231</color>
+    <color name="black_blueish_gray2">#29323D</color>
+    <color name="gray_wolf">#504A4B</color>
+    <color name="gray_vampire">#565051</color>
+    <color name="gray_ash">#666362</color>
+    <color name="gray_cloud">#B6B6B4</color>
+    <color name="gray_light">#505767</color>
+
+    <!-- yellow -->
+    <color name="yellow_corn">#FFF380</color>
+    <color name="yellow_cream">#FFFFCC</color>
+    <color name="yellow_sun">#FFE87C</color>
+    <color name="yellow_bright">#FFF338</color>
+    <color name="yellow_dark">#D7C854</color>
+
+    <!-- orange -->
+    <color name="orange">#FFA844</color>
+    <color name="orange_Cantaloupe">#FFA62F</color>
+    <color name="orange_light">#ebe6c8</color>
+    <color name="orange_skinTone">#F0855D</color>
+
+    <!-- green -->
+    <color name="green_apple">#4CC417</color>
+    <color name="green_zombie">#54C571</color>
+    <color name="green_jungle">#347C2C</color>
+    <color name="green_lime">#41A317</color>
+    <color name="green_jade">#5EFB6E</color>
+    <color name="green_clover">#3EA055</color>
+    <color name="green_darkJungle">#125A26</color>
+    <color name="green_light">#c8ebd6</color>
+    <color name="green_oliver">#609e4d</color>
+    <color name="green_light2">#86CAB1</color>
+
+    <!-- pink -->
+    <color name="pink">#FAAFBE</color>
+    <color name="pink_neon">#F535AA</color>
+    <color name="pink_rose">#E7A1B0</color>
+    <color name="pink_pig">#FDD7E4</color>
+    <color name="pink_dress">#E95098</color>
+    <color name="pink_dark">#A64275</color>
+    <color name="pink_light">#E478AB</color>
+
+    <!-- RED -->
+    <color name="red">#FF0000</color>
+
+    <!-- Purple -->
+    <color name="purple_amethyst">#6C2DC7</color>
+    <color name="purple_light">#d8c8eb</color>
+    <color name="burstblue">#0099cc</color>
+    <color name="orangeb">#f0780f</color>
+    <color name="orangec">#f4c36e</color>
+    <color name="GJ">#d6ccf4f6</color>
+    <color name="bblue">#0b7bf4</color>
+    <color name="GJ_orange">#60f2cb98</color>
+    <color name="GJJOrange">#e98923</color>
+    <color name="GJ_blue">#a763a9ef</color>
+    <color name="chatroom_bk">#76d3f1fb</color>
+</resources>

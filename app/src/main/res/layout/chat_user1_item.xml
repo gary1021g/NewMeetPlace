@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp">
+
+        <LinearLayout
+            android:id="@+id/chat_company_reply_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:orientation="vertical"
+            android:gravity="left">
+
+            <TextView
+                android:id="@+id/author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="8dp"
+                android:paddingTop="5dp"
+                android:textStyle="bold"
+                android:text="User1"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:maxWidth="280dp"
+                android:autoLink="web"
+                android:text="Hello"
+                android:textColor="#3ea5f9"
+                android:textSize="@dimen/normal_txt_size" />
+
+            <ImageView
+                android:id="@+id/photoImageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/applozic_ic_contact_picture_180_holo_light" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/time_text"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/chat_company_reply_text"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="5dp"
+            android:layout_toRightOf="@+id/chat_company_reply_text"
+            android:text="17:10"
+            android:textSize="@dimen/small_txt_size"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

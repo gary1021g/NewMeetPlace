@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <CheckBox
+        android:id="@+id/cb_restaurant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="餐廳" />
+
+    <CheckBox
+        android:id="@+id/cb_coffee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="咖啡廳" />
+
+    <CheckBox
+        android:id="@+id/cb_shoppingmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="購物中心" />
+
+    <CheckBox
+        android:id="@+id/cb_convenience_store"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="便利商店" />
+</LinearLayout>
